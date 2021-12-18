@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+nuitka = "0.6.18.3"
+numpy = "*"
+Cython = "*"
+Pillow = "*"
+scikit_learn = "*"
+opencv_python_headless = "4.4.0.42"
+scikit_image = "*"
+scipy = "*"
+opencv_contrib_python_headless = "4.4.0.42"
+Wand = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
