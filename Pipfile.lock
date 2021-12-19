@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "749bc4b6a21791e0dc181afc25046e9fdaddd06c41a7e58e75fd4324f14fd534"
+            "sha256": "e275214c23729bfbc4ebbc00bce48867ae1cdcd319c7d4b8a40cf52ed4cde8c5"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -93,11 +93,9 @@
             "version": "==2.6.3"
         },
         "nuitka": {
-            "hashes": [
-                "sha256:33121d931384cdd0d5f48d41cf712122f89b676896908d956cf028d204cac0b8"
-            ],
-            "index": "pypi",
-            "version": "==0.6.18.4"
+            "editable": true,
+            "git": "https://github.com/Nuitka/Nuitka.git",
+            "ref": "f531d620ad02e07615064a77c299bf8db6a2993d"
         },
         "numpy": {
             "hashes": [
