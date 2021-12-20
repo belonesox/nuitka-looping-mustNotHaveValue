@@ -8,15 +8,11 @@ numpy = "*"
 Cython = "*"
 Pillow = "*"
 scikit_learn = "*"
-opencv_python_headless = "4.4.0.42"
 scikit_image = "*"
 scipy = "*"
-opencv_contrib_python_headless = "4.4.0.42"
-Wand = "*"
-wand = "*"
-nuitka = {editable = true, ref = "factory", git = "https://github.com/Nuitka/Nuitka.git"}
+nuitka = "==0.6.17.1"
 
 [dev-packages]
 
 [requires]
-python_version = "3.7"
+python_version = "3.8"
