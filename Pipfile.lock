@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "bd5421375c63719ce41b12e277dc40d777961288e7a700aff94a8da1984bf86e"
+            "sha256": "44baed2b68b3ff9ce73d6b75851cfcec1e924b33f58b9d0bb74897d005b12760"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -94,10 +94,10 @@
         },
         "nuitka": {
             "hashes": [
-                "sha256:1a8cfb2bf6db3ccef96f87e5f89d3596a90fb540c7d6da047bc40fc1205c3437"
+                "sha256:bc33e02c2e5e72f9054c20f9d6790d64a15569f82029f7a4a29f7f6b8540e808"
             ],
             "index": "pypi",
-            "version": "==0.6.17.1"
+            "version": "==0.6.18.3"
         },
         "numpy": {
             "hashes": [
