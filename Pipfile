@@ -14,7 +14,7 @@ scipy = "*"
 opencv_contrib_python_headless = "4.4.0.42"
 Wand = "*"
 wand = "*"
-nuitka = {editable = true, ref = "factory", git = "https://github.com/Nuitka/Nuitka.git"}
+#nuitka = {editable = true, ref = "factory", git = "https://github.com/Nuitka/Nuitka.git"}
 
 [dev-packages]
 
