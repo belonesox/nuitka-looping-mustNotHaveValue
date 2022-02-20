@@ -1,5 +1,5 @@
 #!/bin/sh
-set PATH=C:\ta-buildroot\python-x86-3.8.10;C:\ta-buildroot\python-x86-3.7.9;%PATH%
+set PATH=C:\python3;%PATH%
 python.exe -m pip install pipenv
 del /Q Pipfile.lock
 python.exe -m pipenv --rm
